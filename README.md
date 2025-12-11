@@ -1,7 +1,6 @@
 # SuperStore_Analysis_DashBoard-PowerBI
-Dashboard to analyse a SuperStore Sales using PowerBI
+Dashboard to analyse a SuperStore Sales using Power BI Desktop, Data Cleaning and Modeling (Power Query), Data Visualization, DAX Measures for advanced calculations
 
-🛒 Super Store Sales Analysis Dashboard
 📌 Introduction
 
 The Super Store Sales Analysis Dashboard is a business intelligence project created using Power BI to analyze sales performance across various business dimensions.
